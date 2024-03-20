@@ -40,6 +40,11 @@ img {
 
 .heading {
   padding: 25px 0;
+  text-align: center;
+}
+
+.h3{
+  text-align: center;
 }
 .cartCount {
   font-weight: bold;
